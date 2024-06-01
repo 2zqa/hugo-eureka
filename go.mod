@@ -1,4 +1,4 @@
-module wangchucheng.com/hugo-eureka
+module github.com/2zqa/hugo-eureka
 
 go 1.17
 
